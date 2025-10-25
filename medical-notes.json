@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "patient_id": "57",
+    "doctor_id": "9",
+    "note": "Prescribed to use anti-itch cream and moisturizing ointment.",
+    "appt_id": "2",
+    "date": "15/09/25"
+  },
+  {
+    "id": 2,
+    "patient_id": "48",
+    "doctor_id": "5",
+    "note": "Required intake of anti-seizure medication to control the abnormal electrical activities within the brain. Check in after 1 month.",
+    "appt_id": "5",
+    "date": "05/09/25"
+  },
+  {
+    "id": 3,
+    "patient_id": "88",
+    "doctor_id": "2",
+    "note": "Specified the consumption of antacids, antibiotic tablets, and bulk-forming laxatives.",
+    "appt_id": "6",
+    "date": "18/08/25"
+  },
+  {
+    "id": 4,
+    "patient_id": "17",
+    "doctor_id": "1",
+    "note": "Prescribed certain drugs to prevent the difficulty or any infection in the urinary tract and recommended to drink more water.",
+    "appt_id": "10",
+    "date": "20/10/25"
+  },
+  {
+    "id": 5,
+    "patient_id": "53",
+    "doctor_id": "9",
+    "note": "Recommended to use a non-comedogenic based gentle cleanser and moisturizer along with frequent hair washes. Avoid greasy hair products. ",
+    "appt_id": "11",
+    "date": "18/10/25"
+  },
+  {
+    "id": 6,
+    "patient_id": "19",
+    "doctor_id": "2",
+    "note": "Prescribed nasal spray to clear the nasal path and paracetamol for the sore throat.",
+    "appt_id": "14",
+    "date": "02/10/25"
+  },
+  {
+    "id": 7,
+    "patient_id": "3",
+    "doctor_id": "1",
+    "note": "Prescribed drugs that help with long-standing sleeping disorder and suggested to optimize their sleeping environment, regular exercise, and avoid late meals.",
+    "appt_id": "15",
+    "date": "30/09/25"
+  },
+  {
+    "id": 8,
+    "patient_id": "32",
+    "doctor_id": "13",
+    "note": "Prescribed certain medications for pain relief and suggested physical therapy.",
+    "appt_id": "18",
+    "date": "18/09/25"
+  }
+]
