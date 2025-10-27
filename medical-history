@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "patient_id": "26",
+        "history": "Family history of arthritis.",
+        "last_edited": "22/01/25"
+    },
+    {
+        "id": 2,
+        "patient_id": "57",
+        "history": "Lifestyle habits like the use of tobacco and drinking alcohol, along with chemical allergies.",
+        "last_edited": "17/05/25"
+    },
+    {
+        "id": 3,
+        "patient_id": "83",
+        "history": "Frequent wheezing problems and catches colds/flus easily.",
+        "last_edited": "30/11/24"
+    },
+    {
+        "id": 4,
+        "patient_id": "10",
+        "history": "Bipolar disorder, depression, and regular sleep problems that caused significant intake of anti-depressants.",
+        "last_edited": "06/03/25"
+    },
+    {
+        "id": 5,
+        "patient_id": "48",
+        "history": "Head injury leading to post-traumatic epilepsy in childhood.",
+        "last_edited": "12/04/24"
+    },
+    {
+        "id": 6,
+        "patient_id": "88",
+        "history": "Family history of diabetes and high blood pressure.",
+        "last_edited": "09/06/24"
+    },
+    {
+        "id": 7,
+        "patient_id": "72",
+        "history": "Right leg fracture which needed insertion of metal pins.",
+        "last_edited": "07/12/24"
+    },
+    {
+        "id": 8,
+        "patient_id": "6",
+        "history": "Frequent seizure and migraines resulting in the use of anticonvulsants.",
+        "last_edited": "10/01/25"
+    },
+    {
+        "id": 9,
+        "patient_id": "95",
+        "history": "Hospitalized due to pneumonia.",
+        "last_edited": "20/08/24"
+    },
+    {
+        "id":10,
+        "patient_id": "17",
+        "history": "Genetic disorder named sickle cell anemia.",
+        "last_edited": "11/03/24"
+    },
+    {
+        "id": 11,
+        "patient_id": "53",
+        "history": "Dust allergy and food allergies like nuts and eggs.",
+        "last_edited": "24/02/25"
+    },
+    {
+        "id": 12,
+        "patient_id": "38",
+        "history": "Undergone surgery to remove tonsils (tonsillectomy).",
+        "last_edited": "05/02/24"
+    },
+    {
+        "id": 13,
+        "patient_id": "44",
+        "history": "Diagnosed with asthma at the age of 10, using an inhaler to date.",
+        "last_edited": "29/01/24"
+    },
+    {
+        "id": 14,
+        "patient_id": "19",
+        "history": "Family history of heart disease and has gone through chest discomfort situation twice.",
+        "last_edited": "03/08/24"
+    },
+    {
+        "id": 15,
+        "patient_id": "3",
+        "history": "High cholesterol and excessive obesity, taking the appropriate medication necessary.",
+        "last_edited": "28/03/24"
+    },
+    {
+        "id": 16,
+        "patient_id": "91",
+        "history": "Acne, rashes, and high use of cosmetic products causing skin allergies.",
+        "last_edited": "21/07/25"
+    },
+    {
+        "id": 17,
+        "patient_id": "75",
+        "history": "Kidney stones and urination problem due to the improper eating lifestyle.",
+        "last_edited": "14/04/25"
+    },
+    {
+        "id": 18,
+        "patient_id": "32",
+        "history": "Family history of cancer, has undergone chemotherapy treatment.",
+        "last_edited": "30/01/24"
+    },
+    {
+        "id": 19,
+        "patient_id": "65",
+        "history": "Chemical exposure at work with recurring back pains. Currently, taking appropriate medication.",
+        "last_edited": "19/07/25"
+    },
+    {
+        "id": 20,
+        "patient_id": "22",
+        "history": "Encountered a kidney transplant due to failure in its functioning caused by excessive drinking habit.",
+        "last_edited": "27/05/24"
+    }
+]
