@@ -131,7 +131,7 @@
     "doctor_id": "1",
     "date": "30/09/25",
     "time": "11:15 am",
-    "reason": "Insomania and lack of concentration",
+    "reason": "Insomnia and lack of concentration",
     "status": "completed"
   },
   {
@@ -140,7 +140,7 @@
     "doctor_id": "2",
     "date": "03/11/25",
     "time": "18:30 pm",
-    "reason": "Fatigue, weakness and unexplained weight loss",
+    "reason": "Fatigue, weakness, and unexplained weight loss",
     "status": "upcoming"
   },
   {
