@@ -3,12 +3,14 @@
     "id": 1,
     "patient_id": "57",
     "doctor_id": "9",
-    "prescription_id": "1"
+    "prescription_id": "1",
+    "drug_id": "16"
   },
   {
     "id": 2,
     "patient_id": "48",
-    "doctor_id": "5",
-    "prescription_id": "2"
+    "doctor_id": "1",
+    "prescription_id": "2",
+    "drug_id": "8"
   }
 ]
