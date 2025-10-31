@@ -6,7 +6,7 @@
     "patient_id": "57",
     "doctor_id": "9",
     "drug_id": "16",
-    "app_id": "2"
+    "appt_id": "2"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "patient_id": "48",
     "doctor_id": "5",
     "drug_id": "28",
-    "app_id": "5"
+    "appt_id": "5"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "patient_id": "88",
     "doctor_id": "2",
     "drug_id": "15",
-    "app_id": "6"
+    "appt_id": "6"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "patient_id": "17",
     "doctor_id": "1",
     "drug_id": "6",
-    "app_id": "10"
+    "appt_id": "10"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "patient_id": "53",
     "doctor_id": "9",
     "drug_id": "40",
-    "app_id": "11"
+    "appt_id": "11"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "patient_id": "19",
     "doctor_id": "2",
     "drug_id": "19",
-    "app_id": "14"
+    "appt_id": "14"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "patient_id": "3",
     "doctor_id": "1",
     "drug_id": "12",
-    "app_id": "15"
+    "appt_id": "15"
   },
   {
     "id": 8,
@@ -69,6 +69,6 @@
     "patient_id": "32",
     "doctor_id": "13",
     "drug_id": "26",
-    "app_id": "18"
+    "appt_id": "18"
   }
 ]
