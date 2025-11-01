@@ -328,14 +328,6 @@ function insertAppointments() {
 
 - **Main Application:** MedHaven Medical Clinic Website
 - **Course:** CST2572 - Web Secure Technologies
-- **Institution:** Middlesex University Dubai
-
-## 👥 Contributors
-
-**Development Team:**
-1. Fathima Hafsa Shehan
-2. Faustine Franz
-3. Aswathi Poyyillathu Reji
 
 ## ⚠️ Important Notes
 
